@@ -35,3 +35,9 @@ Write a method which, when passed the object representing a particular person, r
 
 Jenny (4 family members)
 Bob (4 family members)
+
+Requirements:
+---
+In memory database. No strong error checking is needed
+
+
